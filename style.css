@@ -64,7 +64,7 @@ nav{
     background-color: #A0522D;
 }
 .hero{
-    background-image: url(../assets/hero.jpg );
+    background-image: url(./assets/hero.jpg );
     background-size: cover;
     background-position: center;
     display: flex;
